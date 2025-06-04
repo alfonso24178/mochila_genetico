@@ -1,3 +1,4 @@
 echo __pycache__/ > .gitignore
 echo venv/ >> .gitignore
 echo *.pyc >> .gitignore
+git remote add origin git@github.com:alfonso24178/mochila_genetico.git
