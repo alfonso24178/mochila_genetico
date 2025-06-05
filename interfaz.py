@@ -11,8 +11,8 @@ import statistics
 
 # === Parámetros del problema ===
 NUM_EJECUCIONES = 30               # Número de veces que se ejecuta el algoritmo
-CAPACIDAD_MOCHILA = 1.5            # Peso máximo permitido
-MIN_CALORIAS = 500                 # Calorías mínimas requeridas
+CAPACIDAD_MOCHILA = 0.7           # Peso máximo permitido
+MIN_CALORIAS = 400                 # Calorías mínimas requeridas
 TAM_POBLACION = 1000               # Tamaño de la población
 PORCENTAJE_MUTACION = 0.1          # Probabilidad de mutación por gen
 
